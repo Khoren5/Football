@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Կարգավորումներ" android:id="@+id/kargavorum"/>
+    <item android:title="Մեր մասին" android:id="@+id/mermasin"/>
+    <item android:title="Դուրս գալ" android:id="@+id/dursgal"/>
+</menu>

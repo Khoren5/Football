@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/home" android:title="Home" android:icon="@drawable/hommer"/>
+    <item android:id="@+id/video" android:title="Video" android:icon="@drawable/viddeo"/>
+<item android:id="@+id/league" android:icon="@drawable/news" android:title="News"/>
+</menu>

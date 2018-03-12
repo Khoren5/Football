@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "687443443882",
+    "firebase_url": "https://start-football.firebaseio.com",
+    "project_id": "start-football",
+    "storage_bucket": "start-football.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687443443882:android:eaed1a39f965d5f1",
+        "android_client_info": {
+          "package_name": "com.example.dell.football"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687443443882-ncg1u53boptej3u7i4918uot24ur3m29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.football",
+            "certificate_hash": "0cd0e94985eacf8b2f5a6369cb0df402e21f9c7a"
+          }
+        },
+        {
+          "client_id": "687443443882-tv5i5sl2m29lvh8iorfs13vob722pmnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAExPQwIMqdPcfGsQglzo1DMiF6fpUtePY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687443443882-tv5i5sl2m29lvh8iorfs13vob722pmnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

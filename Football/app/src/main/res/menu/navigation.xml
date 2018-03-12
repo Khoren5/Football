@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group >
+<item android:title="FIFA World Cup™" android:id="@+id/fwc" android:icon="@drawable/popi"/></group>
+    <group >
+        <item android:title="UEFA Champions League" android:id="@+id/uefach" android:icon="@drawable/uefach"/>
+</group><group>
+   <item android:title="Other Matches" android:id="@+id/aylxax" android:icon="@drawable/ayl"/>
+    </group><group>
+    <item android:id="@+id/fifa" android:title="FIFA.COM" android:icon="@drawable/fifa85"/>
+<item android:id="@+id/dursgal" android:title="Ելք" android:icon="@drawable/logout"/></group>
+
+</menu>
